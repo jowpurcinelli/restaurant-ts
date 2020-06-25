@@ -1,6 +1,6 @@
 import React, { useState } from  'react';
 
-import { Container } from
+import { Container } from  './styles';
 
 import { FiEdit3, FiTrash } from 'react-icons/fi';
 
@@ -104,4 +104,3 @@ const Food: React.FC<IProps> = ({
 
 
 
-}
